@@ -4,7 +4,7 @@ I wählte den Weg der Wahrheit; nach deinen Urteilen hab ich Verlangen. <Psalm 1
 
 ---
 
-Hi, welcome to my zoneeee. :happy:
+Hi, welcome to my page! :happy:
 
 ![gwonihan's github stats](https://github-readme-stats.vercel.app/api?username=gwonihan&show_icons=true)
 [![gwonihan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=gwonihan&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/gwonihan)
